@@ -8,14 +8,6 @@ Original file is located at
 
 **Data Diri**
 *   Nama          : Septian Triputra
-*   No. Telepon   : 0812 7558 8583
-*   Kota Domisili : Kabupaten Bengkalis
-*   Tempat Lahir  : Kabupaten Muara Enim
-*   Tanggal Lahir : 3 September 1986
-*   Jenis Kelamin : Laki-laki
-*   Pendidikan Terakhir : SMA
-*   Pekerjaan/profesi Saat Ini  : Karyawan Swasta
-*   Perusahaan/institusi Saat Ini : Hotel Grand Zuri Duri
 """
 
 !wget --no-check-certificate https://github.com/dicodingacademy/assets/releases/download/release/rockpaperscissors.zip
